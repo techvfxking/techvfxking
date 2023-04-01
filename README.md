@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techvfxking
-- 👀 I’m interested in Desktop and Web Application develoment
+- 👀 I’m interested in developing Desktop and Web Application develoment
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ... 
