@@ -11,8 +11,8 @@ techvfxking/techvfxking is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techvfxking&show_icons=true&locale=en&layout=compact" alt="techvfxking" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techvfxking&show_icons=true&locale=en&layout=compact&theme=radical" alt="techvfxking" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techvfxking&show_icons=true&locale=en" alt="techvfxking" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techvfxking&show_icons=true&locale=en&theme=yeblu" alt="techvfxking" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techvfxking&" alt="techvfxking" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techvfxking&&theme=radical" alt="techvfxking" /></p>
